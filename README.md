@@ -2,6 +2,7 @@
   # Description:
      The "Color_to_Gray_ImageConvertor" is a simple python project.It's help to convert color images into gray scale images.This tool provides a simple yet efficient solution for users looking to transform their color images into grayscale representations, preserving important visual information while removing color complexities.
   # Key Features:
+  
      >1.Conversion Accuracy: 
           Ensures accurate conversion from color to grayscale, preserving the integrity of the original image's content and contrast.
      >2.Support for Multiple Image Formats: 
@@ -18,3 +19,7 @@
      > Load your desired color image using the provided functions or methods.
      > Apply the conversion process, optionally adjusting parameters to achieve desired results.
      > Save the resulting grayscale image in the desired format or utilize it for further analysis or processing.
+
+  # Requirements:
+     python with Open-Cv
+     Image you want to be convert
