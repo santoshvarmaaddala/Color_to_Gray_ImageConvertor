@@ -21,5 +21,5 @@
      > Save the resulting grayscale image in the desired format or utilize it for further analysis or processing.
 
   # Requirements:
-     python with Open-Cv
+     Python with Open-Cv module
      Image you want to be convert
